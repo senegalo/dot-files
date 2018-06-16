@@ -1,4 +1,4 @@
-tmux_conf
+# Dot Files
 =========
 
-my tmux config
+Important dot files for fast recovery
