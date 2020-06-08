@@ -4,6 +4,7 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 alias ls='ls -GFh'
 alias ll='ls -als'
 alias 'gl=git log --graph --abbrev-commit --decorate --date=relative --all'
+alias 'openide=/snap/intellij-idea-community/current/bin/idea.sh'
 
 if [ -f ~/.git-completion.bash ]; then
   . ~/.git-completion.bash
